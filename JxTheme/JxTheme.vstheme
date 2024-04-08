@@ -1,5 +1,5 @@
 <Themes>
-    <Theme Name="JxTheme" GUID="{a362e9dd-655f-421e-9088-98d3b802aa60}" BaseGUID="{a4d6a176-b948-4b29-8c66-53c97a1ed7d0}">
+    <Theme Name="JxTheme" GUID="{5f6b65af-f814-45ce-8592-f737aa502e8b}" BaseGUID="{a4d6a176-b948-4b29-8c66-53c97a1ed7d0}">
         <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
             <Color Name="Body">
                 <Background Type="CT_RAW" Source="FFFBFBFB" />
@@ -6251,63 +6251,63 @@
             </Color>
             <Color Name="JSON Property Name">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE8E200" />
             </Color>
             <Color Name="CSS Comment">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FF898989" />
             </Color>
             <Color Name="CSS Keyword">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE8E2DF" />
             </Color>
             <Color Name="CSS Selector">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE8BE00" />
             </Color>
             <Color Name="CSS Property Name">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FF00D700" />
             </Color>
             <Color Name="CSS Property Value">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FF8BC7D3" />
             </Color>
             <Color Name="CSS String Value">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FF00D7D7" />
             </Color>
             <Color Name="HTML Attribute Name">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FF95E454" />
             </Color>
             <Color Name="HTML Attribute Value">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FF00D7D7" />
             </Color>
             <Color Name="HTML Comment">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FF898989" />
             </Color>
             <Color Name="HTML Element Name">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE5786D" />
             </Color>
             <Color Name="HTML Entity">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE8E2DF" />
             </Color>
             <Color Name="HTML Operator">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE8E2DF" />
             </Color>
             <Color Name="HTML Server-Side Script">
-                <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Background Type="CT_RAW" Source="FF598A1E" />
+                <Foreground Type="CT_RAW" Source="FFE8E2DF" />
             </Color>
             <Color Name="HTML Tag Delimiter">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE8E2DF" />
             </Color>
             <Color Name="RazorCode">
                 <Background Type="CT_INVALID" Source="00000000" />
