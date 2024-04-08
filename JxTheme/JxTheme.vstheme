@@ -6043,43 +6043,43 @@
             </Color>
             <Color Name="ScssVariableDeclarationClassificationFormat">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE5786D" />
             </Color>
             <Color Name="ScssVariableReferenceFormat">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE5786D" />
             </Color>
             <Color Name="ScssMixinDeclarationFormat">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FF00D700" />
             </Color>
             <Color Name="ScssMixinReferenceFormat">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FF00D700" />
             </Color>
             <Color Name="LessCssVariableDeclarationClassificationFormat">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE5786D" />
             </Color>
             <Color Name="LessCssVariableReferenceFormat">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE5786D" />
             </Color>
             <Color Name="LessCssNamespaceReferenceFormat">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE8E200" />
             </Color>
             <Color Name="LessCssMixinDeclarationFormat">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FF00D700" />
             </Color>
             <Color Name="LessCssMixinReferenceFormat">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FF00D700" />
             </Color>
             <Color Name="LessCssKeywordFormat">
                 <Background Type="CT_INVALID" Source="00000000" />
-                <Foreground Type="CT_INVALID" Source="00000000" />
+                <Foreground Type="CT_RAW" Source="FFE8E2DF" />
             </Color>
             <Color Name="HtmlClientTemplateSeparatorFormatDefinition">
                 <Background Type="CT_INVALID" Source="00000000" />
@@ -9452,7 +9452,7 @@
         <Category Name="Text Editor Text Manager Items" GUID="{58e96763-1d3b-4e05-b6ba-ff7115fd0b7b}">
             <Color Name="Plain Text">
                 <Background Type="CT_RAW" Source="FF242B33" />
-                <Foreground Type="CT_RAW" Source="FFE8E200" />
+                <Foreground Type="CT_RAW" Source="FFE8E2DF" />
             </Color>
             <Color Name="Selected Text">
                 <Background Type="CT_INVALID" Source="00000000" />
