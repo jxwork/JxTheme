@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="JxTheme.fed072f1-941d-4aca-8908-5b473076bd94" Version="0.1" Language="en-US" Publisher="JxWork" />
+        <Identity Id="JxTheme.fed072f1-941d-4aca-8908-5b473076bd94" Version="0.2" Language="en-US" Publisher="JxWork" />
         <DisplayName>Jx Theme</DisplayName>
         <Description xml:space="preserve">A combined dark theme for Visual Studio that's easy on my eyes</Description>
         <MoreInfo>https://github.com/jxwork/JxTheme</MoreInfo>
