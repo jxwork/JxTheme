@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="JxTheme (4)" GUID="{65fbc1ea-f9aa-4c29-9b12-9c3e34fdf5bc}" BaseGUID="{a4d6a176-b948-4b29-8c66-53c97a1ed7d0}">
+  <Theme Name="JxTheme" GUID="{65fbc1ea-f9aa-4c29-9b12-9c3e34fdf5bc}" BaseGUID="{a4d6a176-b948-4b29-8c66-53c97a1ed7d0}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FFFBFBFB" />
